@@ -1,3 +1,4 @@
+display picture
 username
 email
 age 
