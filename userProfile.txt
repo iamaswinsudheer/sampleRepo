@@ -1,5 +1,5 @@
 display picture
-username
+Aswin
 email
 age 
 address
