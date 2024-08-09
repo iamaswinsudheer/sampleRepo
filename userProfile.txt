@@ -1,5 +1,6 @@
 display picture
 Aswin
+gender
 email
 age 
 address
